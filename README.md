@@ -4,4 +4,4 @@ This is rapchik website
 
 Updated Locally
 
-now updating in update-readme file
+Updates made on Master on Github before rebase
