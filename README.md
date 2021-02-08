@@ -2,6 +2,6 @@
 
 This is rapchik website
 
-Hurrah
+Updated Locally
 
 now updating in update-readme file
